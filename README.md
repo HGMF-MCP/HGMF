@@ -5,13 +5,7 @@ A Scalable Probabilistic Pruning Paradigm for Tool Invocation Based on Model Con
 <div align="center">
   <img src="HGMF/img/img1.png" alt="HGMF Workflow" width="600"/>
   <p><strong>HGMF </strong></p>
-  <p>
-     <a href="https://arxiv.org/abs/2508.07602" target="_blank" style="text-decoration: none;">
-      <span style="background-color: #1e90ff; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
-        🔗 arXiv:2508.07602
-      </span
-    </a>
-  </p>
+
 </div>
 
 
