@@ -1,8 +1,8 @@
 {
-  "sample_threshold": ,
+  "sample_threshold": 10,
   "n_clusters": null,
-  "sample_num": ,
-  "topk_cluster": ,
+  "sample_num": 15,
+  "topk_cluster": 4,
   "tool_embedding_field": "tool_description_embedding",
   "server_embedding_field": "server_description_embedding"
 }
